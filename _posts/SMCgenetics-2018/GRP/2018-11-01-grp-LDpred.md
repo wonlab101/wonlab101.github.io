@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/GRP/grp-LDpred
+permalink: /GRP/grp-LDpred
 ---
 
 ## **2. LDpred**
@@ -266,4 +266,4 @@ Fig. 2 | Risk for CAD according to GPS
 Go to previous step,  
 [1. LD clumping + thresholding]({% post_url 2018-11-01-grp-PT %})
 
-or [main page](/)
+or [main page]({{ site.baseurl }})

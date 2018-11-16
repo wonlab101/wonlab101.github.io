@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/GWAS/gwas-imputation
+permalink: /GWAS/gwas-imputation
 ---
 
 ## **2. Imputation**

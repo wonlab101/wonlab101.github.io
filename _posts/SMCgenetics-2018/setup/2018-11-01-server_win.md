@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/setup/server_win
+permalink: /setup/server_win
 ---
 
 ## **Windows MobaXterm 사용법**

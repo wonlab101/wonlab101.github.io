@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/GWAS/gwas-association
+permalink: /GWAS/gwas-association
 ---
 
 ## **3. Association Analysis**

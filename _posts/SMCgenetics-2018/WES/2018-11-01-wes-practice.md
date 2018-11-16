@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/WES/wes-practice
+permalink: /WES/wes-practice
 ---
 
 ## **4. Homework: ExAC Project**
@@ -106,4 +106,4 @@ Go to other sections,
 [2. Filtering]({% post_url 2018-11-01-wes-filtering%})  
 [3. Annotation]({% post_url 2018-11-01-wes-annotation%})  
 
-or [main page](/)
+or [main page]({{ site.baseurl }})

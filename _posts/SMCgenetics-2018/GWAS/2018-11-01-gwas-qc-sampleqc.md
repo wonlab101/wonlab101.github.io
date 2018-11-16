@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/GWAS/gwas-qc-sampleqc
+permalink: /GWAS/gwas-qc-sampleqc
 ---
 
 go back to previous page, [**1. Data Quality Control**]({% post_url 2018-11-01-gwas-qc %}).

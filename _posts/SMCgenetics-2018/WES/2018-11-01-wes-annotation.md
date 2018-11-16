@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /SMCgenetics-2018/WES/wes-annotation
+permalink: /WES/wes-annotation
 ---
 
 ## **3. Annotation**
