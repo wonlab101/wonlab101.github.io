@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /WES/wes-filtering
+permalink: /SMCgenetics-2018/WES/wes-filtering
 ---
 
 ## **2. Filtering**

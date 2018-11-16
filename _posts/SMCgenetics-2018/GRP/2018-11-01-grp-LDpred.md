@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /GRP/grp-LDpred
+permalink: /SMCgenetics-2018/GRP/grp-LDpred
 ---
 
 ## **2. LDpred**

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /WES/wes-practice
+permalink: /SMCgenetics-2018/WES/wes-practice
 ---
 
 ## **4. Homework: ExAC Project**

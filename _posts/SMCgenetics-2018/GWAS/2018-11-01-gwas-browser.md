@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /GWAS/gwas-browser
+permalink: /SMCgenetics-2018/GWAS/gwas-browser
 ---
 
 ## **4. Browser Searching**
