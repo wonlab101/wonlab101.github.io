@@ -21,7 +21,7 @@ email: wonlab101@gmail.com
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/SMCgenetics-2018" # the subpath of your site, e.g. /blog
 url: "https://wonlab101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wonlab101
 g-analytics: UA-129298271-1
