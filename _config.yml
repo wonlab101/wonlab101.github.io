@@ -24,7 +24,7 @@ email: wonlab101@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wonlab101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wonlab101
-
+g-analytics: UA-129298271-1
 # Build settings
 markdown: kramdown
 theme: minima
