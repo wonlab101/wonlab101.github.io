@@ -1,0 +1,42 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+
+## Introduction to BGDA Workshop 2018
+
+<hr>
+<br>
+
+**학습목표:**  
+
+본 워크숍에서는 common variant analysis에서 rare variant analysis에 이르는 유전체 분석의 기초 및 연구 방법론을 소개하고, 유전체 자료의 분석에 필요한 주요 tool을 익힌다.
+본 워크숍을 통하여 유전체 연구를 시작하는 연구자들에게 유전체 자료의 전처리의 중요성을 강조하고, 향후 유전체 자료를 스스로 처리하고 분석할 수 있는 방향을 제시하고자 한다.
+
+**실습구성:**  
+
+Common variant analysis의 대표적인 tool인 PLINK를 이용하여 GWAS 자료의 전처리와 분석을 실습한다.  
+Rare variant analysis에서는 GATK와 vcftools을 이용하여 시퀀싱 자료를 전처리하고 VEP를 이용하여 functional annotation을 수행한다.  
+또한, 최근 유전체 분야에서 주목받고 있는 방법론인 polygenic risk score analysis와 Mendelian randomization 기법을 소개하고 실습한다.
+
+**일시:** 2018-11-17, 9:10 AM - 4:20 PM
+
+**장소:** 서울시 강남구 일원로 121 삼성생명 일원동빌딩 강의장 (일원역 1번 출구)
+
+<br>
+<hr>
+<br>
+
+09:10 ~ 10:50 &nbsp;&nbsp;&nbsp;&nbsp; **질병유전체 데이터 분석 이론**
+
+11:00 ~ 12:00 &nbsp;&nbsp;&nbsp;&nbsp; [**Genome-Wide Association Study (GWAS)**]({{ site.baseurl }}/GWAS/)
+
+-----------------------> 중식 (12:00 ~ 13:00) <-----------------------
+
+13:00 ~ 14:00 &nbsp;&nbsp;&nbsp;&nbsp; [**Genetic Risk Prediction (GRP)**]({{ site.baseurl }}/GRP/)
+
+14:10 ~ 15:10 &nbsp;&nbsp;&nbsp;&nbsp; [**Mendelian Randomization (MR)**]({{ site.baseurl }}/MR/)
+
+15:20 ~ 16:20 &nbsp;&nbsp;&nbsp;&nbsp; [**Whole-Exome Sequencing (WES)**]({{ site.baseurl }}/WES/)
