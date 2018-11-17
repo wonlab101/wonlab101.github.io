@@ -10,7 +10,7 @@ go back to previous page, [**1. Data Quality Control**]({% post_url 2018-11-01-g
 <br>
 
 #### a. Filtering by threshold
-- remove missingness rate ≥0.05 individuals :  ```--mind 0.05```
+- remove missingness rate ≥0.05 (call rate <0.95) individuals :  ```--mind 0.05```
 - generate a lists of missingness rate statistics :  ```--missing```
 - generate a lists of heterozygosity rate statistics :  ```--het```
 
