@@ -157,7 +157,7 @@ This section uses [**'LOFTEE' module.**](https://github.com/konradjk/loftee){: t
 vep --cache --dir_cache /data/software/VEP/ensembl-vep-release-90/cache \
  --port 3337 --assembly GRCh37 \
  -i BGDA.VPASS.snp.QD.AC.hwefiltered.recode.vcf \
- -o BGDA.vcf.gene.pridict.vep \
+ -o BGDA.vcf.gene.predict.vep \
  --symbol --pick \
  --af_1kg --af_esp --af_gnomad \
  --plugin LoF,human_ancestor_fa:/data/software/VEP/ensembl-vep-release-90/cache/Plugins/LoF/human_ancestor.fa \
